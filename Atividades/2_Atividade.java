@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Atividade2 {
+public class Segundo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
