@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class produtoDaMultiplicacao {
 
 	public static void main(String[] args) {
 		
@@ -13,7 +13,7 @@ public class Main {
 		System.out.println("Digite o valor de N3: ");
 		float n3 = input.nextFloat();
 		
-		float soma = n1 + n2 + n3;
+		float soma = n1 * n2 * n3;
 		
 		System.out.println("O produto da soma dos valores é: " + soma);
 		
