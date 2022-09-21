@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ExercicioDoisAdo4 {
+public class multiplaEscolha {
     public static void main(String[] args) {
         
         Scanner input = new Scanner(System.in);
