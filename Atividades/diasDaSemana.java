@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ExercicioUmAdo4 {
+public class diasDaSemana {
     
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
