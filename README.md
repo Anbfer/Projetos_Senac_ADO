@@ -1,7 +1,7 @@
 🇧🇷
 # Projetos Centro Universitário Senac - 1º Semestre
 
-> Atividades desenvolvidas em Java com acompanhamento docente durante o **1º Semestre de Análise e Desenvolvimento de Sistemas**
+> Este é um repositório de atividades desenvolvidas em Java com acompanhamento docente durante o **1º Semestre de Análise e Desenvolvimento de Sistemas**
 > - Aqui você encontra as classes *.java* de todas as atividades entregues durante este início de formação.
 > - A atividades listadas aqui seguem a ordem cronológica de entrega e desenvolvimento.
 
