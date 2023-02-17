@@ -25,9 +25,9 @@
 🇺🇸/🇬🇧
 # University Projects - 1st Semester
 
-> Activities developed with Java with supervision from professors during the **1st semester Systems Analysis and Development**
-> - Here you can find the *.java* files, from all the activities delivered during the first steps of this graduation.
-> - The activities listed here, follow the cronological order of development.
+> This is a repository of Java activities developed with the guidance of a teacher during the 1st semester of Systems Analysis and Development**
+> - Here you can find the *.java* files, from all the activities delivered during the first stage of this graduation.
+> - The activities listed here, follow the cronological order of delivery and development.
 
 ##### [1. Sum of anny 3 *x* numbers](/Atividades/produtoDaMultiplicacao.java)
 ##### [2. Show the multiplication product of *x* and his three firsts multiples](/Atividades/primeirosMultiplos.java)
