@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sudoku {
+public class TicTacToe {
     public static char matriz[][] = new char[3][3];
 
     public static void main(String[] args) {
