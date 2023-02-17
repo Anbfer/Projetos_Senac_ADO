@@ -1,5 +1,5 @@
-🇧🇷
-# Projetos Centro Universitário Senac - 1º Semestre
+🇧🇷  
+# Projetos Centro Universitário Senac
 
 > Este é um repositório de atividades desenvolvidas em Java com acompanhamento docente durante o **1º Semestre de Análise e Desenvolvimento de Sistemas**
 > - Aqui você encontra as classes *.java* de todas as atividades entregues durante este início de formação.
@@ -23,7 +23,7 @@
 
 
 🇺🇸/🇬🇧
-# University Projects - 1st Semester
+# University Projects
 
 > This is a repository of Java activities developed with the guidance of a teacher during the 1st semester of Systems Analysis and Development**
 > - Here you can find the *.java* files, from all the activities delivered during the first stage of this graduation.
