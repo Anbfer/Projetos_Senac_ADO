@@ -14,6 +14,13 @@
 ##### [7. Determina se o ano *n* inserido é bissexto ou não](/Atividades/anoBissexto.java)
 ##### [8. Utilizando *switch case* determina se o *n* valor inserido corresponde a algum dia da semana e informa qual dia este *n* número representa](/Atividades/diasDaSemana.java)
 ##### [9. Simula uma questão de múltipla escolha utilizando *switch case* e retorna se a resposta está correta ou não](/Atividades/multiplaEscolha.java)
+##### [10. Tente adivinhar o número sorteado](/Atividades/AdivinheNumero.java)
+##### [11. Uma adaptação do jogo campo minado para o estilo caminho minado](/Atividades/CaminhoMinado.java)
+##### [12. Uma versão de jogo estilo Campo minado](/Atividades/CampoMinado.java)
+##### [13. Um quebra cabeças númerico](/Atividades/QubraCabecaNum.java)
+##### [14. Um jogo da velha](/Atividades/TicTacToe.java)
+##### [15. Sudoku, permite que sejam feitas as escolhas de dificuldade](/Atividades/Sudoku.java)
+
 
 🇺🇸/🇬🇧
 # University Projects - 1st Semester
@@ -31,3 +38,10 @@
 ##### [7. Determine if the year *x* inputed is bisext or not](/Atividades/anoBissexto.java)
 ##### [8. Using *switch case* determines if the *x* value input corresponds to a day of the week and informs which day of the week that number *x* represents](/Atividades/diasDaSemana.java)
 ##### [9. Simulate a multiple choice quiz, using *switch case*, and return if the chosen alternative is right or not](/Atividades/multiplaEscolha.java)
+##### [10. Try to guess the drawn number](/Atividades/AdivinheNumero.java)
+##### [11. An adaptation of the Minesweeper game in the style of Path Minesweeper](/Atividades/CaminhoMinado.java)
+##### [12. A version of the Minesweeper game style](/Atividades/CampoMinado.java)
+##### [13. A numerical puzzle](/Atividades/QubraCabecaNum.java)
+##### [14. A tic-tac-toe game](/Atividades/TicTacToe.java)
+##### [15. Sudoku, allows you to choose the difficulty of a level](/Atividades/Sudoku.java)
+
