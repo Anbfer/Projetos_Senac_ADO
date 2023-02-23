@@ -1,6 +1,5 @@
 # Repositório Algoritimos 2
-
-## Atividades desenvolvidas em aula
+### Atividades desenvolvidas em aula
 ### Vetor
 [Atividade](/ALGII/AngeloBarachoADO1.java)
 > - Encontra o maior e o menor número do Vetor;
