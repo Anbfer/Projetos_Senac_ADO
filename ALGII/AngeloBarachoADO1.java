@@ -5,7 +5,7 @@ public class AngeloBarachoADO1 {
 
     public static void main(String[] args) {
         //Variaveis para soma dos valores pares e impares e para os menores e maiores valores
-        int somaPar = 0, somaImpar = 0, maiorValorVetor = 0, menorValorVetor = 0;
+        int somaPar = 0, somaImpar = 0, maiorValorVetor = 0, menorValorVetor = 0, valorPesquisar;
 
 
         //Criação do vetor com 10 posições
@@ -39,14 +39,13 @@ public class AngeloBarachoADO1 {
         System.out.println("Soma pares: " + somaPar);
         System.out.println("Soma impares: " + somaImpar);
 
-
-        //Escolha do numero a ser pesquisado dentro do bound dos números aleatórios
         System.out.printf("\nEscolha um numero de 0-20 para ser pesquisado no Vetor: ");
+        valorPesquisar = pegaInput();
 
-
-        //pega o imput do usuário para pesquisar o valor desejado
-        int valorPesquisar = pegaInput();
-
+        while (valorPesquisar > 20 || valorPesquisar < 0) {
+            System.out.printf("\nEscolha um numero de 0-20 para ser pesquisado no Vetor: ");
+            valorPesquisar = pegaInput();
+        }
 
         //pesquisa os valores e retorna se ele existem ou não e se existirem em qual indice do vetor é possivel encontrar o número inputado
         procuraNumeroNoVetor(meuVetor, valorPesquisar);
